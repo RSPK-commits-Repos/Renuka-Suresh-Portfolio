@@ -360,6 +360,7 @@ section .box {
   width: 100%;
   z-index: 2;
   padding: 2rem 1rem;
+}
 
 .contact .form-box h2 {
   font-size: 22px;
